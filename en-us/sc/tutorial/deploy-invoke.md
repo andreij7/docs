@@ -5,7 +5,7 @@ This tutorial is designed to cover how to deploy and invoke a smart contract on 
 
 ## 2 - Useful Resources
 
-The following resources are used in this tutorial and can be helful references when developing a smart contract:
+The following resources are used in this tutorial and can be helpful references when developing a smart contract:
 
 1. [Lock2](Lock2.md)
 2. [Parameter](Parameter.md)
